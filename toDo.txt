@@ -1,0 +1,5 @@
+
+DUE BY 2/17
+-resource manager =done 
+-show sprite on screen
+-basic animation
